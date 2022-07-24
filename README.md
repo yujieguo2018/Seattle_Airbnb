@@ -18,7 +18,8 @@ The neighborhood of Broadway, Belltown and First Hill offers the most Airbnb opt
 1. README.
 2. A data folder that contains the csv used in this project 
 3. A jupyter notebook style ipynb file contains my code
-4. Files that I want to be ignored by Git
+4. Output folder: for some output plots and data
+5. Files that I want to be ignored by Git
 
 ## Python library used
 
